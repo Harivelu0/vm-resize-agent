@@ -80,7 +80,7 @@ vm-resize-agent/
 ### Step 1 — Deploy AWS infrastructure
 
 ```bash
-git clone https://github.com/yourname/vm-resize-agent
+git clone https://github.com/Harivelu0/vm-resize-agent
 cd vm-resize-agent
 
 aws cloudformation deploy \
